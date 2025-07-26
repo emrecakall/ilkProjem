@@ -1,0 +1,5 @@
+feat için bir giris.txt dosyası oluşturuldu.
+
+giris.txt dosyasına feat için ikinci satır yazıldı.
+
+giris.txt dosyasına feat için üçüncü satır yazıldı.
